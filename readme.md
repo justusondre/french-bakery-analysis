@@ -9,7 +9,9 @@ In the age of e-commerce and digital marketing, businesses, including small-scal
 
 ## Problem
 
-With a significant portion of the population now shopping online due to availability of internet, businesses are finding active methods to maximize their profits. 
+With a significant portion of the world's population now shopping online due to availability of internet, businesses are finding active methods to maximize their profits through digital marketing. Unfortunately, due to higher demand for online shopping, this affects businesses that maximize their profits in-person.
+
+The dataset used, is owned by "The Bread Basket," a bakery that is located in Edinburgh. Due to the demand of online shopping, The Bread Basket is finding ways to maximize their shopping with online ordering. The dataset provides transaction details of customers who ordered different items from this bakery online between 2016 and 2017.
 
 ## Project Task 
 
