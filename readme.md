@@ -5,7 +5,15 @@
 
 ## Project Insights 
 
-The online marketplace for renting homes, and exploring unique accommodations in specific locations have become increasingly popular over the years. Airbnb in specific, is a competitive travel accommodation market, and continues to grow, allowing hosts to rent out their personal properties to guests.
+In the age of e-commerce and digital marketing, businesses, including small-scale enterprises, companies are emphasizing opportunities by promoting their products online; increasing their overall sales by taking advantage of the online landscape. 
+
+## Problem
+
+With a significant portion of the population now shopping online due to availability of internet, businesses are finding active methods to maximize their profits. 
+
+## Project Task 
+
+By using Market Basket Analysis, this will allow companies to understand their customer purchasing patterns. This technique is used by businesses in order to increase their sales and constumer satisfaction by gaining a deeper understanding of customers' purchasing behaviors and patterns. This analytical approach investigates item collections, which reveals associations between products that are frequently purchased together, therefore allows business owners to obtain valuable insights.  
 
 ## 2016 & 2017 Bakery Sales Dataset
 New York City, often referred to as NYC, is one of the most vibrant and diverse cities in the world. It is located in the state of New York, in the northeastern United States. Known as the "Big Apple." Also known for the "City that Never Sleeps." NYC is a global hub for finance, culture, entertainment, fashion, and commerce.
