@@ -24,7 +24,7 @@ When it comes to accommodations, Airbnb has gained significant popularity in New
 
 Staying in an Airbnb in New York City provides visitors with the opportunity to experience the city like a local, often at more affordable prices compared to traditional hotels. It allows travelers to choose from different neighborhoods and immerse themselves in the unique charm and character of each area.
 
-You can find more information about the data set here: [2019 Airbnb Dataset NYC](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+You can find more information about the data set here: [Bakery Dataset in Edinburgh](https://www.kaggle.com/datasets/akashdeepkuila/bakery)
 
 
 ## Bakery Sales Analysis
