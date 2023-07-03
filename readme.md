@@ -29,14 +29,19 @@ You can find more information about the data set here: [2019 Airbnb Dataset NYC]
 
 ## Bakery Sales Analysis
 
-* The average cost per night for an Airbnb in New York City is $152.72 during 2019.
-* The highest price you can spend for an Airbnb in New York City is $10,000.00
-* The top most expensive homes are located in the Manhattan neigbourhood group.
-* The top least expensive homes are located in the Brooklyn neigbourhood.
-* The top three locations with the highest count of homes available: Williamsburg, Bedford-Stuyvesant, and Harlem.
-* Brooklyn has the most private rooms available, with nearly 10,000 listings.
-* Manhattan has the most "entire home/apt" option available for travelers interested in renting the entire property.
-* Manhattan has the most "shared-room" option, for travelers that are interested in sharing a room with other people.
+* There was a total of 8,144.00 sales in 2016. There was a total of 12,363.00 sales in 2017. That is nearly a 52% increase in sales over a span of one year. 
+  
+* The top 15 items include: coffee, bread, tea, cake, pastry, sandwich, medialuna, hot chocolate, cookies, brownie, farm house, muffin, juice, and soup.
+
+*  In 2016, the most sales took place on a Monday. There was a total of 1,359.00 total transactions on Monday during 2016. The least amount of transactions occured on Tuesday. There was a total of 975.00 total transactions on Tuesday, during the year of 2016.
+  
+* In 2017, the most sales took place on a Saturday. There was a total of 2,270.00 total transactions on Saturday during 2017. The least amount of transactions occured on a Wednesday, with a total of 1,219.00 transactions during the year of 2017.
+
+* During both years of 2016 and 2017, the most transactions that occured, was during 10:00 AM, with a total of 3,102 transactions. The lowest amount of transactions that occured, was during 21:00 PM and 23:00 PM. 
+
+* The data given, it was divided between "Daypart." This consists of Afternoon, Evening, Morning, and Night. The amount of transactions during the afternoon was 11,569.00. The Total transactions during the evening was 520.00. The total transactions during the Morning was 8,404.00. Lastly, the total transactions during the night was 14.00.
+
+*  Continuing further with the "Daypart" data, we can conclude the top five items dependent on the "Daypart." During afternoons, the most bought items were bread, cake, coffee, sandwich, and tea. During the evenings, the most items bought were bread, cake, coffee, cookies, hot chocolate, tea, and t-shirts. During the mornings, the top items included bread, coffee, meialuna, pastry, and tea. Lastly, at night, the top items included hot chocolate, juice, mineral water, scandinavian bread, valentine's card, and vegan feast. 
 
 ## Bakery Sales Conclusion
 
